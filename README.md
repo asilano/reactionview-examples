@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo contains various more-or-less minimal examples for easy reproduction of some bugs with https://github.com/marcoroth/reactionview
 
-Things you may want to cover:
+## Debug mode with intercept_erb adds HTML to non-HTML views
+marcoroth/reactionview#23
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Visit `/examples/non_html.text` while `intercept_erb` and `debug_mode` are both set.
