@@ -3,6 +3,7 @@ Rails.application.routes.draw do
 
   scope "examples", controller: :examples do
     get "non_html"
+    get "comments"
   end
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.

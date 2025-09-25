@@ -3,4 +3,7 @@ class ExamplesController < ApplicationController
     @secret = "shazam"
     respond_to :text
   end
+
+  def comments
+  end
 end

@@ -6,3 +6,8 @@ This repo contains various more-or-less minimal examples for easy reproduction o
 marcoroth/reactionview#23
 
 Visit `/examples/non_html.text` while `intercept_erb` and `debug_mode` are both set.
+
+## Comments result in crashes
+marcoroth/reactionview#24
+
+Visit `/examples/comments` while `intercept_erb` is set
