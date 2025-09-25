@@ -6,4 +6,7 @@ class ExamplesController < ApplicationController
 
   def comments
   end
+
+  def case_statements
+  end
 end

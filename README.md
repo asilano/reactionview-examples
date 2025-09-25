@@ -11,3 +11,8 @@ Visit `/examples/non_html.text` while `intercept_erb` and `debug_mode` are both 
 marcoroth/reactionview#24
 
 Visit `/examples/comments` while `intercept_erb` is set
+
+## Case statements containing do-end blocks result in crashes
+marcoroth/reactionview#26
+
+Visit `/examples/case_statements` while `intercept_erb` is set
