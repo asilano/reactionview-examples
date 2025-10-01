@@ -9,4 +9,7 @@ class ExamplesController < ApplicationController
 
   def case_statements
   end
+
+  def block_comments
+  end
 end

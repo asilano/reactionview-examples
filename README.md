@@ -16,3 +16,8 @@ Visit `/examples/comments` while `intercept_erb` is set
 marcoroth/reactionview#26
 
 Visit `/examples/case_statements` while `intercept_erb` is set
+
+## Block comments result in crashes
+marcoroth/reactionview#34
+
+Visit `/examples/block_comments` while `intercept_erb` is set
