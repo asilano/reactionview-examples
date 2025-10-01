@@ -12,4 +12,7 @@ class ExamplesController < ApplicationController
 
   def block_comments
   end
+
+  def yield_blocking_debug
+  end
 end

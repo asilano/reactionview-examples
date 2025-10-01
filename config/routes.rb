@@ -6,6 +6,7 @@ Rails.application.routes.draw do
     get "comments"
     get "case_statements"
     get "block_comments"
+    get "yield_blocking_debug"
   end
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.

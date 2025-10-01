@@ -21,3 +21,8 @@ Visit `/examples/case_statements` while `intercept_erb` is set
 marcoroth/reactionview#34
 
 Visit `/examples/block_comments` while `intercept_erb` is set
+
+## yield in a Ruby construct renders ERB debug unusable
+marcoroth/reactionview#35
+
+Visit `/examples/yield_blocking_debug` while `intercept_erb` and `debug_mode` are both set

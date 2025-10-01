@@ -23,6 +23,8 @@
   </head>
 
   <body>
-    <%= yield %>
+    <%= content_tag(:main) do %>
+      <%= yield %>
+    <% end %>
   </body>
 </html>
