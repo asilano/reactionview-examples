@@ -16,6 +16,6 @@ class ExamplesController < ApplicationController
   def yield_blocking_debug
   end
 
-  def yield_in_helpers
+  def view_component_and_helpers
   end
 end

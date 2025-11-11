@@ -65,3 +65,5 @@ group :test do
 end
 
 gem "reactionview", "~> 0.1.2"
+
+gem "view_component", "~> 4.1"
